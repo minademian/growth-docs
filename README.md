@@ -1,1 +1,2 @@
-# growth-docs
+# Growth Docs
+
