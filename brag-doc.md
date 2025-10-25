@@ -1,19 +1,29 @@
 ## Brag Document
+> _**Note**: in reverse-chronological order_
 
 ### 2025
-- Stepped in to help out lead with compliance/technical debt, assigned by SM
-    - Got temporary owner access to GitHub org
-- Doing recognized work with CISO in auditing
-    - Learning the ins and outs of auditing tool
-- Taking up space and asserting myself in team
-- Solved the infra issue
-    - Have become a lot more comfortable and knowledgeable with AWS, ECS
-- Have gotten better at infra + networking + AWS
-- Delivered demo albeit a tad buggy. Went the extra mile, put in extra effort an hours
-- Taking up space at Engineering Excellence Chapter
-- Working directly with Group CTO!
-- Finished hard refactor of status polling
-- Took part in interview process, exerting influence and leadership
+- Cleared to host and maintain jira-worklogs-bot under private account!!
+- 4 alphas and pre-alphas built this week with AI-assisted engineering and rapid prototyping
+    - React Native application
+    - sql.js + vanilla JS/HTML CRUD console for sqlite databases
+    - Revamp of old React app into 2025 React 18 + Chakra UI listings module
+    - Custom WordPress theme + plugin
+- Foray into bot development
+    - JIRA worklogs bot - Spring Boot application sideloaded into Teams
+    - MCP server - Node application sideloaded into Teams
+- Able to refactor and confirm diff-check was idempotent through AI-assisted debugging and pair-programming
+- Taught myself how to setup, configure, and deploy sideloaded Teams applications in Entra
+- Deployed and launched DR to production, against all odds
+- Left JIRA board clear ahead of vacation and paused full solution in production
+- Becoming a Java programmer
+- Becoming an AI-assisted engineer, leveraging AI to code
+- First Java package in production under public domain
+- First bash utility aiming for production quality
+    - Pitched to CTO office to be considered for open source under Cabonline
+    - Passed first Solution Architect review!
+- Passed 1st quarterly review with positive feedback!
+- Cleared to release OSS candidate under own name!
+- - Took part in interview process, exerting influence and leadership
     - coworkers deferring to my judgment
 - Successful end of mentoring intern. Got good feedback
 - Brought down Scytale audit task from 51 to 9 within 48 hours
@@ -27,16 +37,18 @@
 - Handled the situation with the DR deadline. Got an extension by arguing facts and being a leader.
 - Successfully identified, troubleshooted, communicated, and documented a test environment issue that could have delayed or blocked release.
     - Built FE logging solution as part of above
-- Deployed and launched DR to production, against all odds
-- Left JIRA board clear ahead of vacation and paused full solution in production
-- Becoming a Java programmer
-- Becoming an AI-assisted engineer, leveraging AI to code
-- First Java package in production under public domain
-- First bash utility aiming for production quality
-    - Pitched to CTO office to be considered for open source under Cabonline
-    - Passed first Solution Architect review!
-- Passed 1st quarterly review with positive feedback!
-- Cleared to release OSS candidate under own name!
+- Doing recognized work with CISO in auditing
+    - Learning the ins and outs of auditing tool
+- Taking up space and asserting myself in team
+- Solved the infra issue
+    - Have become a lot more comfortable and knowledgeable with AWS, ECS
+- Have gotten better at infra + networking + AWS
+- Delivered demo albeit a tad buggy. Went the extra mile, put in extra effort an hours
+- Taking up space at Engineering Excellence Chapter
+- Working directly with Group CTO!
+- Finished hard refactor of status polling
+- Stepped in to help out lead with compliance/technical debt, assigned by SM
+    - Got temporary owner access to GitHub org
 
 ### 2024
 
