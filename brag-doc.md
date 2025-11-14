@@ -2,6 +2,9 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2025
+- 1 new microservice `git-notification-service` and Python script `git-sync` built and at pre-alpha, the former running successfully in production two weeks in a row
+- launched [yarn-shell-completion](https://github.com/ursine-inc/yarn-shell-completion) as open-source!
+- launched [server-utilities](https://github.com/minademian/server-utilities) as open-source!
 - Cleared to host and maintain jira-worklogs-bot under private account!!
 - 4 alphas and pre-alphas built this week with AI-assisted engineering and rapid prototyping
     - React Native application
