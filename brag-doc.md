@@ -2,7 +2,17 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2025
+- architecting a wider solution to enable users to manage liturgical texts without having to learn SQL and make changes in a bundled in-app SQLite database. More coming soon.
+- executed a difficult React Native upgrade from 0.75.2 to 0.79.4 and accounted also for Android 16kb page size support. Truly teeth-cutting stuff!
+    - offered back some APK and AAB bundle validation scripts to the community - ([APK](https://gist.github.com/minademian/6e841c8e1a84308c6b3dc937a2d4a4cd),[AAB](https://gist.github.com/minademian/71a5a3d0243496ce6a2a49956c01e4cd))
+- published several deep-dive guides, technical deep-dives, anddesign documents:
+    - Delving into React Native - ([1](https://blog.minademian.com/lessons-learned-from-a-react-native-app-in-production/), [2](https://blog.minademian.com/using-the-adapter-pattern-to-tame-wild-react-native-upgrades/), [3](https://blog.minademian.com/grafting-in-tdd-into-a-legacy-react-native-codebase/))
+    - how I approached the [JIRA Worklogs Bot design](https://blog.minademian.com/system-design-document-jira-worklog-bots/)
+    - how to [timebox idea execution with AI](https://www.linkedin.com/pulse/timeboxing-ideas-ai-assisted-engineering-mina-demian-5z0mf?trackingId=nVMMQynoZ09mPHCTmwRw5A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BGQcDkcGaSLq%2BQBVn7A8u2A%3D%3D)
+- launched my [documentation library](https://github.com/minademian/documentation-library) with a [complete guide to deploying a service to AWS EKS](https://github.com/minademian/documentation-library/blob/main/deploying-a-service-to-aws-eks/deploying-a-service-to-aws-eks.md)
 - 1 new microservice `git-notification-service` and Python script `git-sync` built and at pre-alpha, the former running successfully in production two weeks in a row
+    - microservice listens for webhook events posted from vanilla Git server and processes them with Kafka
+    - Python script runs a diff check between vanilla Git and destination Github, creates commits in destination if not found.
 - launched [yarn-shell-completion](https://github.com/ursine-inc/yarn-shell-completion) as open-source!
 - launched [server-utilities](https://github.com/minademian/server-utilities) as open-source!
 - Cleared to host and maintain jira-worklogs-bot under private account!!
@@ -11,7 +21,7 @@
     - sql.js + vanilla JS/HTML CRUD console for sqlite databases
     - Revamp of old React app into 2025 React 18 + Chakra UI listings module
     - Custom WordPress theme + plugin
-- Foray into bot development
+- First foray into bot development
     - JIRA worklogs bot - Spring Boot application sideloaded into Teams
     - MCP server - Node application sideloaded into Teams
 - Able to refactor and confirm diff-check was idempotent through AI-assisted debugging and pair-programming
