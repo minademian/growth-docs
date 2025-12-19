@@ -2,6 +2,7 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2025
+- built an AI-first fullstack solution (vanilla JavaScript + Spring Boot + Postgres) in 4 hours during a hackathon
 - architecting a wider solution to enable users to manage liturgical texts without having to learn SQL and make changes in a bundled in-app SQLite database. More coming soon.
 - executed a difficult React Native upgrade from 0.75.2 to 0.79.4 and accounted also for Android 16kb page size support. Truly teeth-cutting stuff!
     - offered back some APK and AAB bundle validation scripts to the community - ([APK](https://gist.github.com/minademian/6e841c8e1a84308c6b3dc937a2d4a4cd),[AAB](https://gist.github.com/minademian/71a5a3d0243496ce6a2a49956c01e4cd))
