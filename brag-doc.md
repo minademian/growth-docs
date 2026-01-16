@@ -1,7 +1,11 @@
 ## Brag Document
 > _**Note**: in reverse-chronological order_
 
+### 2026
+- published a [technical post-mortem and white paper on AI-driven engineering](https://github.com/minademian/documentation-library/blob/main/route-planning-opti-app-with-llm/route-planning-opti-app-with-llm.md), from the hackathon exercise last month!
+
 ### 2025
+- set up my documentation library and published a detailed how-to guide with EKS.
 - built an AI-first fullstack solution (vanilla JavaScript + Spring Boot + Postgres) in 4 hours during a hackathon
 - architecting a wider solution to enable users to manage liturgical texts without having to learn SQL and make changes in a bundled in-app SQLite database. More coming soon.
 - executed a difficult React Native upgrade from 0.75.2 to 0.79.4 and accounted also for Android 16kb page size support. Truly teeth-cutting stuff!
