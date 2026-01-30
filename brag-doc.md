@@ -2,6 +2,8 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- overhauled and brought [my website](https://minademian.com) into 2026!
+- fixed the final bugs in [my generic CI/CD workflow system](https://github.com/minademian/minademian.com-v2/actions/runs/21506668895), soon to be spun out into an open-source GitHub Workflow.
 - published a [technical post-mortem and white paper on AI-driven engineering](https://github.com/minademian/documentation-library/blob/main/route-planning-opti-app-with-llm/route-planning-opti-app-with-llm.md), from the hackathon exercise last month!
 
 ### 2025
