@@ -2,6 +2,7 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- published the [system design document](https://github.com/minademian/documentation-library/blob/main/jira-worklogs-bot/jira-worklogs-bot.md) of my side-loaded Microsoft Teams bot that interfaces with Atlassian JIRA
 - launced the first release of a [church management system for my church diocese](https://cocs.se) - WordPress plugin that works with storing and encrypted GDPR-compliant personal information and an Electron app that generates Autogiro payments. A architectural deep-dive is coming soon!
 - overhauled and brought [my website](https://minademian.com) into 2026!
 - fixed the final bugs in [my generic CI/CD workflow system](https://github.com/minademian/minademian.com-v2/actions/runs/21506668895), soon to be spun out into an open-source GitHub Workflow.
