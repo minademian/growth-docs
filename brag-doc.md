@@ -2,7 +2,8 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
-- represented my chapter as [Sinch AI Champion](https://www.linkedin.com/feed/update/urn:li:activity:7440331251225542656/?originTrackingId=9uw0BdWJOqn%2F%2FDRnIDU%2FOw%3D%3D) for February-March 2026! Built a component for our design system from scratch using spec-driven development with Claude Code. 
+- Was chosen as my chapter's [Sinch AI Champion](https://www.linkedin.com/feed/update/urn:li:activity:7440331251225542656/?originTrackingId=9uw0BdWJOqn%2F%2FDRnIDU%2FOw%3D%3D) for February-March 2026!
+- Built a component for our design system from scratch using spec-driven development with Claude Code. 
 - published two new ([part 4](https://github.com/minademian/documentation-library/blob/main/react-native-in-production-series/part-4-grafting-in-mvvp-pattern.md), [part 5](https://github.com/minademian/documentation-library/blob/main/react-native-in-production-series/part-5-text-management-migrations-pipeline.md)) deep-dives around the legacy React Native application I'm maintaining.
 - built and shipped two major features within the church management system - a mailshot campaign module and the user profile module, the latter enabling users to manage their consent and _Autogiro_ mandates.
 - the church management system came out as the winning implementation, my code "won the argument". There was another project being pitched to the organization, but that team was unable to get past obstacles and deliver. My solution is now in production, the organization has gotten behind the system, and the other project has been officially shelved.
