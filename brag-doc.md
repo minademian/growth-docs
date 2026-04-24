@@ -2,6 +2,8 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- architected, built, and deployed a global systems change across two core repositories after a production incident and performing a root-cause analysis. The change entails now that engineers can sanity-check changes made to design system components locally and an automated test added to the design system to catch visual discrepancies introduced.
+    - These changes in the design system were made possible by implementing a global theme manager in the core shell MFE.
 - was chosen as my chapter's [Sinch AI Champion](https://www.linkedin.com/feed/update/urn:li:activity:7440331251225542656/?originTrackingId=9uw0BdWJOqn%2F%2FDRnIDU%2FOw%3D%3D) for February-March 2026!
 - built a component for our design system from scratch using spec-driven development with Claude Code. 
 - published two new ([part 4](https://github.com/minademian/documentation-library/blob/main/react-native-in-production-series/part-4-grafting-in-mvvp-pattern.md), [part 5](https://github.com/minademian/documentation-library/blob/main/react-native-in-production-series/part-5-text-management-migrations-pipeline.md)) deep-dives around the legacy React Native application I'm maintaining.
