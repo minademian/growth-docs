@@ -2,6 +2,8 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- Led and completed a platform-wide initiative to migrate all teams' use of an old feature flag service to the new solution (new SaaS + in-house service). Initiative had been stalled for almost a year, I was able to bring us over the finishline in about 2 months.
+- Pending MR count in design system now down to 10.
 - Big push with reducing technical debt in the global design system - 46 merge requests closed (25 merged, 21 closed)
 - architected, built, and deployed a global systems change across two core repositories after a production incident and performing a root-cause analysis. The change entails now that engineers can sanity-check changes made to design system components locally and an automated test added to the design system to catch visual discrepancies introduced.
     - These changes in the design system were made possible by implementing a global theme manager in the core shell MFE.
