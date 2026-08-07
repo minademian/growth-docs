@@ -2,6 +2,10 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- Shipped to production a focused yet complex new feature, as part of a new initiative, across verticals and multiple teams. Faced a lot of both technical and organizational challenges, and shipped despite of those this past Wednesday.
+    - Now, leveraging instrumentation, experiments in Posthog, daily checkins with tracking data, and shorter release cycles to amp up next releases.
+    - Gained the confidence and respect of several senior management and C-suite on the way to shipping.
+- Salary bump based on performance!!
 - Led and completed a platform-wide initiative to migrate all teams' use of an old feature flag service to the new solution (new SaaS + in-house service). Initiative had been stalled for almost a year, I was able to bring us over the finishline in about 2 months.
 - Pending MR count in design system now down to 10.
 - Big push with reducing technical debt in the global design system - 46 merge requests closed (25 merged, 21 closed)
