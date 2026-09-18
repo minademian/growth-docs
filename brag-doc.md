@@ -2,7 +2,8 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
-- Shipped to production a focused yet complex new feature, as part of a new initiative, across verticals and multiple teams. Faced a lot of both technical and organizational challenges, and shipped despite of those this past Wednesday.
+- Shipped a 21-day experiment adding an API credentials widget on the Build dashboard and linked to a new Credentials page. Tracking it with Posthog with detailed events.
+- Shipped to production a focused yet complex new feature, as part of a new initiative, across verticals and multiple teams. It was the redesigned and overhauled buy number flow on Sinch Build Dashboard. Faced a lot of both technical and organizational challenges, and shipped despite of those this past Wednesday.
     - Now, leveraging instrumentation, experiments in Posthog, daily checkins with tracking data, and shorter release cycles to amp up next releases.
     - Gained the confidence and respect of several senior management and C-suite on the way to shipping.
 - Salary bump based on performance!!
