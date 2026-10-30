@@ -2,6 +2,7 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- On first week of piloting AI-powered CI code review, 36% of MRs were auto-approved before merge and deploy.
 - Was defended and protected by the VP of Product to stay on my current product, when another VP wanted to move me back to my original team. To be recognized like that is a career highlight.
 - Shipped a 21-day experiment adding an API credentials widget on the Build dashboard and linked to a new Credentials page. Tracking it with Posthog with detailed events.
 - Shipped to production a focused yet complex new feature, as part of a new initiative, across verticals and multiple teams. It was the redesigned and overhauled buy number flow on Sinch Build Dashboard. Faced a lot of both technical and organizational challenges, and shipped despite of those this past Wednesday.
