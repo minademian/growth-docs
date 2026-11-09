@@ -2,6 +2,7 @@
 > _**Note**: in reverse-chronological order_
 
 ### 2026
+- Went from idea to production within 2.5 days with 2 front-end and 2 back-end services - a first at Sinch. Initial usage is promising with an upward trend. We got eyes from the group leadership team and their "100% support".
 - On first week of piloting AI-powered CI code review, 36% of MRs were auto-approved before merge and deploy.
 - Was defended and protected by the VP of Product to stay on my current product, when another VP wanted to move me back to my original team. To be recognized like that is a career highlight.
 - Shipped a 21-day experiment adding an API credentials widget on the Build dashboard and linked to a new Credentials page. Tracking it with Posthog with detailed events.
